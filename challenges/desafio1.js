@@ -1,1 +1,1 @@
-db.commerce.countDocuments({});
+db.produtos.countDocuments({});
